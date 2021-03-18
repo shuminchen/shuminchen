@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 - 🔭 I’m currently working on an interactive video which users can click on options to decide how the plots proceed
 - 🌱 I’m currently learning Human Computer Interaction
 - 👯 I’m looking to collaborate on ...
