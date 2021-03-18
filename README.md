@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: shuminchen@gse.harvard.edu
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: love playing Just Dance
+- ⚡ Fun fact: love playing Just Dance with friends
 
